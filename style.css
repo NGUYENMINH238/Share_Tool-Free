@@ -83,3 +83,10 @@ h1 {
 .a3:hover{
     color: yellow;
 }
+
+
+@media (max-width: 768px) {
+    .card {
+        font-size: 28px;
+        padding: 15px;
+    }}
